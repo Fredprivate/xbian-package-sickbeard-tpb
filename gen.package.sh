@@ -9,7 +9,7 @@ if [ "$(ls -A $DIR)" ]; then
         rm -rf $DIR
 fi
 
-git clone https://github.com/xbianonpi/Sick-Beard-TPB $DIR
+git clone https://github.com/mr-orange/Sick-Beard $DIR
 
 #-----------------------------------------------------------
 
